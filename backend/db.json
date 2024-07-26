@@ -1,0 +1,16 @@
+{
+  "register": {
+      "userName":"",
+      "password":""
+    },
+  "login": 
+    {
+      "status": "success",
+      "message": "Login successful",
+      "data": {
+      "userName": "krishna",
+      "userEmail": "krishna@abc.com",
+      "proofId": "U101"
+    }
+  }
+}
